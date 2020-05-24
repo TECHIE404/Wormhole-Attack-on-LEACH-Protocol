@@ -1,0 +1,2 @@
+# Wormhole-Attack-on-LEACH-Protocol
+Wormhole attack is one of the most powerful attack in Wireless Sensor Network. In This type of Network two or more then two attacker (It can be a malicious Sensor node) communicate data at high speed through a wormhole tunnel. The main Objective of this attack to transmit the network data to the third party. Leach is a routing protocol work on the principle of adhoc network.
